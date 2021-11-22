@@ -21,6 +21,11 @@ let current_attendees = [
         'repo' => 'https://github.com/YouriROC',
         'folder' => '/Youri/',
         'language' => 'C# console line'
-    ]
+    ],
+    'Pim' => {
+        'repo' => 'https://github.com/Pimmeul',
+        'folder' => 'AoC_2021',
+        'language' => 'js/ts'
+    }
 ]
 ```
