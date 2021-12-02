@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\AdventOfCode 2021\\D1-O1.csproj",
-      "projectName": "D1-O1",
-      "projectPath": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\AdventOfCode 2021\\D1-O1.csproj",
+      "projectUniqueName": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\Opdracht 2\\D1-O2.csproj",
+      "projectName": "D1-O2",
+      "projectPath": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\Opdracht 2\\D1-O2.csproj",
       "packagesPath": "C:\\Users\\Youri School\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\AdventOfCode 2021\\obj\\",
+      "outputPath": "C:\\Users\\Youri School\\Desktop\\AdventOfCode\\AoC_2021\\Youri\\AdventOfCode 2021\\Opdracht 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
