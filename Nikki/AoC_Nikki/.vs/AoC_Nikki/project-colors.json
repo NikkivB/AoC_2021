@@ -5,7 +5,12 @@
       "ProjectGuid": "798b3d34-8244-4072-a985-7be67564b678",
       "DisplayName": "AoC1",
       "ColorIndex": 0
+    },
+    "ada22cda-2f85-4cd5-b0dc-af8662e48756": {
+      "ProjectGuid": "ada22cda-2f85-4cd5-b0dc-af8662e48756",
+      "DisplayName": "AoC2",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
