@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtfNkzgrAFms2JRT8NGzDcnwwliar01fVQ+bJLbzKXkDzXWTmJMaKaxvZnapHeaqlfZ35J0aHP3kKBuxvzhBDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikki\\Documents\\School\\2021-2022\\AoC_2021\\Nikki\\AoC_Nikki\\AoC3\\AoC3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

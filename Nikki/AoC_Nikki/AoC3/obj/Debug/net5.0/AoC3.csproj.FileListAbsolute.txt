@@ -1,0 +1,16 @@
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.exe
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.deps.json
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.runtimeconfig.json
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.runtimeconfig.dev.json
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.dll
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\ref\AoC3.dll
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\bin\Debug\net5.0\AoC3.pdb
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.csproj.AssemblyReference.cache
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.AssemblyInfoInputs.cache
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.AssemblyInfo.cs
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.csproj.CoreCompileInputs.cache
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.dll
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\ref\AoC3.dll
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.pdb
+C:\Users\nikki\Documents\School\2021-2022\AoC_2021\Nikki\AoC_Nikki\AoC3\obj\Debug\net5.0\AoC3.genruntimeconfig.cache

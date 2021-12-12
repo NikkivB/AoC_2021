@@ -10,8 +10,8 @@ namespace AoC2
             int uitkomst1 = 0;
             int uitkomst2 = 0;
             int aim = 0;
-            string temp = "";
             int verm = 0;
+            string temp = "";   
 
 
             foreach (var item in input)
@@ -26,12 +26,10 @@ namespace AoC2
                 else if (item.Contains("up"))
                 {
                     temp = item.Substring(item.Length - 1);
-                    //uitkomst2 = uitkomst2 - Convert.ToInt32(temp);
                     aim = aim - Convert.ToInt32(item.Substring(item.Length - 1));
                 }
                 else if (item.Contains("down"))
                 {
-                    //uitkomst2 = uitkomst2 + Convert.ToInt32(item.Substring(item.Length - 1));
                     aim = aim + Convert.ToInt32(item.Substring(item.Length - 1));
 
                 }                        

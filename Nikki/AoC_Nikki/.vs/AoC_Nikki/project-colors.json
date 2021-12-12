@@ -10,7 +10,27 @@
       "ProjectGuid": "ada22cda-2f85-4cd5-b0dc-af8662e48756",
       "DisplayName": "AoC2",
       "ColorIndex": 1
+    },
+    "140ded56-1fc5-4b27-8733-40225e477285": {
+      "ProjectGuid": "140ded56-1fc5-4b27-8733-40225e477285",
+      "DisplayName": "AoC3",
+      "ColorIndex": 2
+    },
+    "56c21f15-ee56-4f48-b615-33f986bdb806": {
+      "ProjectGuid": "56c21f15-ee56-4f48-b615-33f986bdb806",
+      "DisplayName": "AoC4",
+      "ColorIndex": 3
+    },
+    "93597904-0da4-4901-aeb8-cbec2449b1f4": {
+      "ProjectGuid": "93597904-0da4-4901-aeb8-cbec2449b1f4",
+      "DisplayName": "AoC6",
+      "ColorIndex": 4
+    },
+    "0e4004da-c295-4ea4-bd13-44e8997583d5": {
+      "ProjectGuid": "0e4004da-c295-4ea4-bd13-44e8997583d5",
+      "DisplayName": "AoC7",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
